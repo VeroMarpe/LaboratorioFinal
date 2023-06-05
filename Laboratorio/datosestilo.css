@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(145, 154, 162);
+}
+
+table {
+    margin: 0 auto;
+    width: 90%;
+    border-collapse: collapse;
+    background-color: rgb(40, 42, 52);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+th {
+    background-color: #4e525b;
+    color:rgb(251, 247, 247);
+    border-bottom: #6c707b;
+    border-bottom-style: solid;
+    text-transform: uppercase;
+    font-family: andale mono;
+    padding: 15px;
+}
+
+td {
+    border: 1px solid rgb(158, 158, 160);
+    border-style: dotted;
+    padding: 14px;
+}
